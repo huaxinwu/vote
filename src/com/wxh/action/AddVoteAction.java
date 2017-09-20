@@ -25,7 +25,7 @@ public class AddVoteAction extends ActionSupport {
     private static final long serialVersionUID = -4702604764241806754L;
     
     /**
-     * 接受请求参数(频道编号、投票名称、投票选项集合)
+     * 接受请求参数(频道编号、投票名称、投票选项集合) 
      */
     private int channel;
     private String voteName;
